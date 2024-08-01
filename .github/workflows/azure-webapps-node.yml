@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bitcoin(BTC)</title>
+  <style>
+   body{
+    background-image:linear-gradient(to right,#ff69b4,#33ccff);
+      font-family:Arial,sans-sarif;
+      }
+      .container{
+       width: 80%;
+       margin: 40px auto;
+       padding:20px;
+       background-color:#fff;
+       border-radius:10px;
+       box-shadow:0 0 10px rgba(0,0,0,1);
+       }
+      </style>
+     </head>
+     <body>
+       <div class="container">
+         <h1>Bitcoin(BTC)</h>
+         <img src="(https://media.istockphoto.com/id/1872368024/photo/creative-growing-green-candlestick-forex-chart-and-bitcoin-on-blurry-background-trade-and.jpg?s=1024x1024&w=is&k=20&c=lOF5LH9h3IFklsawaXvoMYy_Ff96TAyvwd3Bz7oFCDw=)"alt="Bitcoin LOGO" width="100">
+         <p>Bitcoin is a decentralised digital currency created by an anomynous individual or grouo using the pseudonym SATOSHI NAKAMOTO.</p>
+         <p> it was the first crypto currency to gain widespread recognition and adoption, and its launch sparked the creation of hundred of other cryptocurrencies.</p>
+         <p> Today,Bitcoin is the largest crypto currency by maerket capatalisation of over $21 Trillion dollar andis widely recognized as a store value and a medium of exchange.</p>
+         <h2> Price History</h2>
+         <table>
+          <tr>
+            <th>Year</th>
+            <th>Price</th>
+          </tr>
+            <tr>
+             <td>2009</td>
+             <td>$1</td>
+          </tr>
+          <tr>
+           <td>2010</td>
+           <td>$0.39</td>
+          </tr>
+          <tr>
+           <td>2011</td>
+           <td>$31</td>
+          </tr>
+          <tr>
+           <td>2017</td>
+           <td>$19,666</td>
+          </tr>
+          <tr>
+           <td>2020</td>
+           <td>$10,000</td>
+          </tr>
+          <tr>
+           <td>2024</td>
+           <td>$71,000</td>
+           </tr>
+          </table>
+          </div>
+         </body>
+         </html>
